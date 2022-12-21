@@ -117,9 +117,11 @@
   
   
   ![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/snake.svg)
+  <br>
   <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" >
-  
+
 <div align="center">
+<br>
 ### Show some ❤️ by starring ⭐ some of the repositories!
 <br>
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
