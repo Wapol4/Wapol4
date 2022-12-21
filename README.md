@@ -66,6 +66,24 @@
 
 <br>
 
+## 🏆 Github Goals Achievment
+<div align="center">
+
+<img alt="" src="images/yolo-default.png" height="90" width="90">
+<img alt="" src="images/arctic-code-vault-contributor-default.png" height="90" width="90">
+<img alt="" src="images/galaxy-brain-default.png" height="90" width="90">
+<img alt="" src="images/heart-on-your-sleeve-default.png" height="90" width="90">
+<img alt="" src="images/galaxy-brain-gold.png" height="90" width="90">
+</div>
+
+<div align="center">
+
+<img alt="" src="images/mars-2020-contributor-default.png" height="90" width="90">
+<img alt="" src="images/open-sourcerer-default.png" height="90" width="90">
+<img alt="" src="images/pair-extraordinaire-default.png" height="90" width="90">
+<img alt="" src="images/starstruck-default.png" height="90" width="90">
+</div>
+
 ## 🏆 Github Goals 
 <br>
 <p align="left"> 
