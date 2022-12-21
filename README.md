@@ -66,7 +66,7 @@
 
 <br>
 
-## 🏆 Github Goals Achievment
+## 🏆 Github Goals Achievement
 <div align="center">
 
 <img alt="" src="images/yolo-default.png" height="90" width="90">
