@@ -126,12 +126,15 @@
 
 <br>
 
-<div align="center">
-  <a href="https://github.com">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wapol4&layout=compact&langs_count=7&theme=dracula"/>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wapol4&theme=dracula" alt="#" /></p>
-  <p><img align="center" width="44%" src="https://github-profile-trophy.vercel.app/?username=wapol4&theme=onestar&column=4&margin-w=10&margin-h=10"/></p>
-</div>
+<p align="center">
+  <a href="https://github.com/wapol4">
+    <img width="60.2%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wapol4&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFFFFF&bg_color=000000"/>
+    <img width="38.4%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wapol4&layout=compact&langs_count=10&theme=dark&bg_color=000000"/>
+    <img width="54.6%" src="https://github-readme-streak-stats.herokuapp.com/?user=wapol4&theme=highcontrast&fire=ffffff&ring=ffffff&border=ffffff&currStreakLabel=ffffff"/> 
+    <img width="44%" src="https://github-profile-trophy.vercel.app/?username=wapol4&theme=onestar&column=4&margin-w=10&margin-h=10"/>
+    <img width="99.4%" src="https://activity-graph.herokuapp.com/graph?username=wapol4&theme=react-dark&bg_color=000000&color=FFFFFF"/>
+  </a>
+</p>
   
   
   ![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/snake.svg)
