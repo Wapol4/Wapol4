@@ -10,7 +10,6 @@
 ![age](https://img.shields.io/badge/age-4-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 ![living](https://img.shields.io/badge/living-SoulSociety-3c9)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wapol4&label=Profile%20views&color=0e75b6&style=flat" alt="wapol4_profile" /> </p>
 
 - 🔭 I’m currently working on **Track Back**
 
