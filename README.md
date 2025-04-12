@@ -101,7 +101,7 @@
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="" width="40" height="40"/> </a> 
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google/google-tile.svg" alt="" width="40" height="40"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/openstack/openstack-icon.svg" alt="" width="40" height="40"/> </a>
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="" width="40" height="40"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github_copilot/github_copilot-icon.svg" alt="" width="40" height="40"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_eks/amazon_eks-icon.svg" alt="" width="40" height="40"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/bitcoin/bitcoin-icon.svg" alt="" width="40" height="40"/> </a>
 
