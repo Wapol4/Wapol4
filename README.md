@@ -11,15 +11,12 @@
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 ![living](https://img.shields.io/badge/living-SoulSociety-3c9)
 
-- 🔭 I’m currently working on **Track Back**
 
-- 🌱 I’m currently learning **Python**
-
-- 👯 I’m looking to collaborate on **Espada**
-
-- 🤝 I’m looking for help with **Project**
-
-- 👨‍💻 All of my projects are available at My Github
+<h3 align="left">🔭 I’m currently working on Track Back</h3>
+<h3 align="left">🌱 I’m currently learning DevSecOps, Cloud, Blockchain</h3>
+<h3 align="left">👯 I’m looking to collaborate on Team</h3>
+<h3 align="left">🤝 I’m looking for help with Project</h3>
+<h3 align="left">👨‍💻 All of my projects are available at My Github</h3>
 
 <h3 align="left">Coding with me :3</h3>
 <p align="left">
