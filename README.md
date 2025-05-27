@@ -83,7 +83,7 @@
 
 ## 🏆 My Tech Stack
 
-#### DevSecOps
+### **DevSecOps**
 <p align="center">
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-tile.svg" alt="Ubuntu" width="50" height="50"/> </a>
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" alt="CentOS" width="50" height="50"/> </a>
@@ -107,7 +107,7 @@
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/fluxcdio/fluxcdio-icon.svg" alt="Flux CD" width="50" height="50"/> </a>
 </p>
 
-#### Cloud
+### **Cloud**
 
 <p align="center">
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="50" height="50"/> </a>
@@ -125,7 +125,7 @@
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_cloudwatch/amazon_cloudwatch-icon.svg" alt="AWS" width="50" height="50"/> </a>
 </p>
 
-#### Blockchain
+### **Blockchain**
 
 <p align="center">
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/bitcoin/bitcoin-icon.svg" alt="Bitcoin" width="50" height="50"/> </a>
