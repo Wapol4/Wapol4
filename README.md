@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hello World I'm Anonym <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
-<h3 align="center">A passionate iot, devops, backend from Soul Society</h3>
+<h3 align="center">A passionate DevSecOps, Cloud, Blockchain
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif">
 <img align="bottom" alt="Coding" width="400" src="https://raw.githubusercontent.com/norcalli/github-assets/master/nvim-colorizer.lua-demo-short.gif">
 <img align="top" alt="Coding" width="400" src="https://ubuntucommunity.s3.dualstack.us-east-2.amazonaws.com/original/2X/e/ed843b9c2fd84a44bc0ae856bdc45398185d94ad.gif">
@@ -104,7 +104,11 @@
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github_copilot/github_copilot-icon.svg" alt="" width="40" height="40"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_eks/amazon_eks-icon.svg" alt="" width="40" height="40"/> </a>
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/bitcoin/bitcoin-icon.svg" alt="" width="40" height="40"/> </a>
-
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hyperledger/hyperledger-icon.svg" alt="" width="40" height="40"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="" width="40" height="40"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="" width="40" height="40"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="" width="40" height="40"/> </a>
+  
 </div>
 
 <br>
