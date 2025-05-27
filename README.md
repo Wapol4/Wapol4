@@ -93,19 +93,36 @@
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" alt="Docker" width="50" height="50"/> </a>
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/> </a>
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg" alt="OpenShift" width="50" height="50"/> </a>
-  <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rancher/rancher-icon.svg" alt="Rancher" width="50" height="50"/> </a>
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rancher/rancher-icon.svg" alt="Rancher" width="50" height="50"/> </a>  
+</p>
+<p align="center">
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Github" width="50" height="50"/> </a>
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" width="50" height="50"/> </a>
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="Jenkins" width="50" height="50"/> </a>
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="50" height="50"/> </a>
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab" width="50" height="50"/> </a>
-  <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="50" height="50"/> </a>
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="Circle CI" width="50" height="50"/> </a>
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="Travis CI" width="50" height="50"/> </a>
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="Argo CD" width="50" height="50"/> </a>
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/fluxcdio/fluxcdio-icon.svg" alt="Flux CD" width="50" height="50"/> </a>
 </p>
 
 #### Cloud
 
 <p align="center">
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="50" height="50"/> </a>
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="50" height="50"/> </a>
-  <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google/google-tile.svg" alt="Google Cloud" width="50" height="50"/> </a>
-  <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ibm_cloud/ibm_cloud-icon.svg" alt="IBM Cloud" width="50" height="50"/> </a>
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="50" height="50"/> </a>
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-icon.svg" alt="AWS Lambda" width="50" height="50"/> </a>
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linode/linode-icon.svg" alt="Linode" width="50" height="50"/> </a>
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/openstack/openstack-icon.svg" alt="OpenStack" width="50" height="50"/> </a>
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ceph/ceph-icon.svg" alt="Ceph" width="50" height="50"/> </a>
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rookio/rookio-icon.svg" alt="Rook" width="50" height="50"/> </a>
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="50" height="50"/> </a>
+</p>
+<p align="center">
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_cloudformation/amazon_cloudformation-icon.svg" alt="Formation" width="50" height="50"/> </a>
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_cloudwatch/amazon_cloudwatch-icon.svg" alt="AWS" width="50" height="50"/> </a>
 </p>
 
 #### Blockchain
@@ -114,6 +131,10 @@
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/bitcoin/bitcoin-icon.svg" alt="Bitcoin" width="50" height="50"/> </a>
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="Ethereum" width="50" height="50"/> </a>
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hyperledger/hyperledger-icon.svg" alt="Hyperledger" width="50" height="50"/> </a>
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-icon.svg" alt="Vault" width="50" height="50"/> </a>
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubedb/kubedb-icon.svg" alt="Kube" width="50" height="50"/> </a>
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/blockstack/blockstack-icon.svg" alt="Blockstack" width="50" height="50"/> </a>
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-official.svg" alt="Rust" width="50" height="50"/> </a>
 </p>
 
 <br>
