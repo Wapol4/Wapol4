@@ -123,6 +123,10 @@
 <p align="center">
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_cloudformation/amazon_cloudformation-icon.svg" alt="Formation" width="50" height="50"/> </a>
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_cloudwatch/amazon_cloudwatch-icon.svg" alt="AWS" width="50" height="50"/> </a>
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="AWS" width="50" height="50"/> </a>
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg" alt="AWS" width="50" height="50"/> </a>
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="AWS" width="50" height="50"/> </a>
+  <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="AWS" width="50" height="50"/> </a>
 </p>
 
 ### **Blockchain**
@@ -134,7 +138,6 @@
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vaultproject/vaultproject-icon.svg" alt="Vault" width="50" height="50"/> </a>
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubedb/kubedb-icon.svg" alt="Kube" width="50" height="50"/> </a>
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/blockstack/blockstack-icon.svg" alt="Blockstack" width="50" height="50"/> </a>
-  <a href="#" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-official.svg" alt="Rust" width="50" height="50"/> </a>
 </p>
 
 <br>
