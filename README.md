@@ -45,8 +45,8 @@
 <img src="https://www.vectorlogo.zone/logos/openstack/openstack-icon.svg" height="60" width="60">
 <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" height="60" width="60">
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="60" width="60">
-<img height="60" src="https://www.vectorlogo.zone/logos/github/github-tile.svg">
-<img height="60" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg">
+<img height="60" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="60">
+<img height="60" src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" width="60">
 
 <br>
 
@@ -57,8 +57,8 @@
 <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="60" width="60">
 <img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg" height="60" width="60">
 <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" height="60" width="60">
-<img height="60" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-tile.svg">
-<img height="60" src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-icon.svg">
+<img height="60" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-tile.svg" width="60">
+<img height="60" src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-icon.svg" width="60">
 </div>
 
 <br>
